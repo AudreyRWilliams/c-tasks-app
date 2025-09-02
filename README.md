@@ -1,7 +1,13 @@
 # C Tasks App
 
-A minimal C program that prints a list of tasks to the console. Built using GCC and Make.  
-Designed to run in GitHub Codespaces.
+Description:
+A minimal C program that prints a list of “tasks” to the console. This demonstrates basic C structure, file organization, and building with make. It’s ideal as a starting point for more complex C projects.
+
+Features:
+
+- Prints a list of sample tasks to the terminal
+- Uses a Makefile for building and running
+- Compatible with GitHub Codespaces
 
 ## How to build & run
 make        # build the program
