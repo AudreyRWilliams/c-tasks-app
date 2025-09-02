@@ -17,6 +17,9 @@ A minimal C program that prints a list of “tasks” to the console. This demon
 <hr>
 
 ## 🛠 Step 1: Create the GitHub Repository
+- Go to GitHub.
+- Click <b>New repository</b> → name: `c-tasks-app`.
+- Initialize with a <b>README</b> (optional).
 ## Step 2: Open in Codespace
 ## Step 3: Add Project Files
 ## Step 4: Build and Run in Codespaces
