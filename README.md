@@ -11,3 +11,10 @@ make clean  # remove binaries
 
 <hr>
 <br><img width="679" height="234" alt="Screen Shot 2025-09-02 at 11 28 40 AM" src="https://github.com/user-attachments/assets/2e815dd8-39b8-4ec8-a6cf-1b104f12ddec" />
+Step 5: Commit and Push
+git add .
+git commit -m "Initial C tasks project"
+git push origin main
+
+
+✅ That’s it! You now have a fully functional C project in GitHub Codespaces with a Makefile build system, clean file organization, and a simple tasks demonstration.
