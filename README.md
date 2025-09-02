@@ -21,6 +21,8 @@ A minimal C program that prints a list of “tasks” to the console. This demon
 - Click <b>New repository</b> → name: `c-tasks-app`.
 - Initialize with a <b>README</b> (optional).
 ## Step 2: Open in Codespace
+- On the repo page, click <b>Code → Codespaces → Create codespace on main</b>.
+- Wait for Codespaces to load VS Code in the browser.
 ## Step 3: Add Project Files
 ## Step 4: Build and Run in Codespaces
 ## Step 5: Commit and Push
