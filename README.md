@@ -11,7 +11,13 @@ A minimal C program that prints a list of “tasks” to the console. This demon
 ## How to build & run
 `make        # build the program` <br>
 `make run    # run the program` <br>
-`make clean  # remove binaries`
+`make clean  # remove binaries (bin/ directory)`
 
 <img width="679" height="234" alt="Screen Shot 2025-09-02 at 11 28 40 AM" src="https://github.com/user-attachments/assets/2e815dd8-39b8-4ec8-a6cf-1b104f12ddec" />
 <hr>
+
+## 🛠 Step 1: Create the GitHub Repository
+## Step 2: Open in Codespace
+## Step 3: Add Project Files
+## Step 4: Build and Run in Codespaces
+## Step 5: Commit and Push
