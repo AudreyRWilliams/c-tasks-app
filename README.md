@@ -33,16 +33,16 @@ A minimal C program that prints a list of “tasks” to the console. This demon
 - .gitignore
 - README.md
 ## Step 4: Build and Run in Codespaces
-Build the project:
+Build the project:<br>
 <img width="112" height="32" alt="Screen Shot 2025-09-02 at 5 38 10 PM" src="https://github.com/user-attachments/assets/08dfdf3a-542b-4c20-82b6-f268e5925f85" />
 
-Run the program:
+Run the program:<br>
 <img width="248" height="82" alt="Screen Shot 2025-09-02 at 5 39 15 PM" src="https://github.com/user-attachments/assets/2cf896a7-9224-4976-a37d-825011ca5776" />
 
-Expected output:
+Expected output:<br>
 <img width="353" height="121" alt="Screen Shot 2025-09-02 at 5 40 01 PM" src="https://github.com/user-attachments/assets/0bed4935-3cab-4610-be63-5961fd28c34a" />
 
-Clean the build artifacts:
+Clean the build artifacts:<br>
 <img width="231" height="86" alt="Screen Shot 2025-09-02 at 5 57 50 PM" src="https://github.com/user-attachments/assets/1c815e22-9595-46ca-8f03-b4d348a730ae" />
 
 ## Step 5: Commit and Push
