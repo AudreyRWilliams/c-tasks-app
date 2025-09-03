@@ -28,6 +28,7 @@ A minimal C program that prints a list of “tasks” to the console. This demon
 
 <img width="454" height="178" alt="Screen Shot 2025-09-02 at 4 06 05 PM" src="https://github.com/user-attachments/assets/b7f67ce4-a732-4ba0-bcce-88e21bf359cb" />
 
+You can create or copy these files:
 - src/main.c
 - Makefile
 - .gitignore
